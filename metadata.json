@@ -1,0 +1,7 @@
+{
+  "name": "AR Grid Builder",
+  "description": "An augmented reality 3D building app using MediaPipe hand tracking and Three.js. Pinch your fingers to place blocks on a 3D grid.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
